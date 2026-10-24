@@ -5,9 +5,9 @@ A web app for an energy-buying team. It answers two questions about UK national 
 1. **What was the latest wind forecast available when the day-ahead buying decision had to be made?**
 2. **How accurate were those forecasts, in numbers?** (so the error can be built into buying decisions)
 
-**Live app:** `<PASTE VERCEL URL>`
-**API (backend):** `<PASTE RENDER URL>` (interactive docs at `/docs`)
-**Demo video:** `<PASTE UNLISTED YOUTUBE URL>`
+**Live app:** `https://bhufhjl.vercel.app/`
+**API (backend):** `https://bhufhjl.onrender.com/` (interactive docs at `/docs`)
+**Demo video:** `https://youtu.be/m6GoqK1VMn4`
 
 > Note: the backend runs on a free tier and sleeps when idle. The first request after a pause can take up to a minute. Open the API's `/api/health` once to wake it, then reload the app.
 
